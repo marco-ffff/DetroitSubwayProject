@@ -1,4 +1,4 @@
-# CMSE202-Final-Project
+# SubwaySystem-Final-Project
 Spring Semester 2024, Sectoin 001, Dr. Yang
 Group 7: Infrastructure & Urban Planning 2
 
